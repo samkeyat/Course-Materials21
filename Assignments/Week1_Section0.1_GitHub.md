@@ -40,7 +40,7 @@ ___
 #### 2.	Install **GitKraken** and link to your GitHub account
   - This is a handy GUI for working with Git Repos. You can get it [here](https:/www.gitkraken.com/). No need to worry about boards or timelines for now you canjust install the GUI.
   - You can also get a free upgrade to Git Kraken pro as a student if you go[here](https://education.github.com/pack?utm_source=github+gitkraken). This willlet you work with private as  well as public repos using Git Kraken.
-  - After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step' 
+  - After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step'
 
 <a name="repo"></a>
 #### 3. Clone the course materials repo to your computer
@@ -66,9 +66,10 @@ ___
 ___
 <a name="classroom"></a>
 ## Setup Instructions Part 2 - Homework and GitHub Classroom
-1. Once I have your GitHub IDs, I will give you a link to an assignment, either through email or the class page. You should follow the instructions for getting the homework repository set up included in this invitation. You should now have a repository for this homework.
+1. Once you have setup your GitHub account and cloned the course repo use the following link to make your own homework repo: : https://classroom.github.com/a/tdtRAvpF
 
-      *Note:* After you accept an assignment for the first time, we will send you an invite to join the classroom organization as a member. **Please accept this.** You will probably get an email with the invitation, but you should also see a link at the top of your main GitHub page.
+  - Follow the instructions from the link and you should see a repo created in our GitHub organization with your name on it [here](https://github.com/HAS-Tools-Fall2021)
+  -  *Note:* After you accept an assignment for the first time, we will send you an invite to join the classroom organization as a member. **Please accept this.** You will probably get an email with the invitation, but you should also see a link at the top of your main GitHub page.
 
 2. Clone your homework repo to your course work directory following the same steps you did to clone the course materials repo. **NOTE:** *DO NOT* clone your homework repo into the `Course-Materials` repo you already cloned. Just clone this into your main folder for the class so its sitting side by side with the `Course-Materials` repo
 
