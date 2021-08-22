@@ -37,9 +37,10 @@ ___
   - Generate a SSH key so you don’t need to enter your password every time you interact with GitHub. Instructions for this can be found [here](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
 <a name="GitKraken"></a>
-#### 2.	Install **GitKraken**
+#### 2.	Install **GitKraken** and link to your GitHub account
   - This is a handy GUI for working with Git Repos. You can get it [here](https:/www.gitkraken.com/). No need to worry about boards or timelines for now you canjust install the GUI.
   - You can also get a free upgrade to Git Kraken pro as a student if you go[here](https://education.github.com/pack?utm_source=github+gitkraken). This willlet you work with private as  well as public repos using Git Kraken.
+  - After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step' 
 
 <a name="repo"></a>
 #### 3. Clone the course materials repo to your computer
