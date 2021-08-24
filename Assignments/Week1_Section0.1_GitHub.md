@@ -30,25 +30,24 @@ ___
 ## Setup Instructions Part 1 - GitHub, GitKraken and Atom
 <a name="githubinst"></a>
 #### 1. Setup account and install GitHub
-  - Register for account on GitHub: <https://github.com/>
-  - Check if you have GitHub installed and if not install it.  Directions for both Windows & Mac [here](http://happygitwithr.com/install-git.html). Windows users should follow Option 1 in 6.2. Mac users can follow Option 1 in 6.3.
-    - *Note:* If you are a Windows user make sure you also install [GitBash](https://www.atlassian.com/git/tutorials/git-bash) as is noted in the instructions.
-  - Setup options in Git. If you have a Mac, you can go to the terminal (Applications -> Utilities -> Terminal) as shown above. If you have a Windows, open Git BASH, which you should have downloaded.  You will need to  setup you [username](https://help.github.com/en/github/using-git/setting-your-username-in-git) and your [email](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
-  - Generate a SSH key so you don’t need to enter your password every time you interact with GitHub. Instructions for this can be found [here](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
+  1.  Register for account on GitHub: <https://github.com/>
+  2. Check if you have GitHub installed and if not install it.  Directions for both Windows & Mac [here](http://happygitwithr.com/install-git.html). Windows users should follow Option 1 in 6.2. Mac users can follow Option 1 in 6.3.
+  3. Setup options in Git. If you have a Mac, you can go to the terminal (Applications -> Utilities -> Terminal) as shown above. If you have a Windows, open Git BASH, which you should have downloaded.  You will need to  setup you [username](https://help.github.com/en/github/using-git/setting-your-username-in-git) and your [email](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address). Note thatyou just need to
+  4. Generate a SSH key so you don’t need to enter your password every time you interact with GitHub. Instructions for this can be found [here](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account).
 
 <a name="GitKraken"></a>
 #### 2.	Install **GitKraken** and link to your GitHub account
-  - This is a handy GUI for working with Git Repos. You can get it [here](https:/www.gitkraken.com/). No need to worry about boards or timelines for now you canjust install the GUI.
-  - You can also get a free upgrade to Git Kraken pro as a student if you go[here](https://education.github.com/pack?utm_source=github+gitkraken). This willlet you work with private as  well as public repos using Git Kraken.
-  - After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step'
+  1. This is a handy GUI for working with Git Repos. You can get it on the GitKraken website (www.gitkraken.com/). No need to worry about boards or timelines for now you can just install the free GUI.
+  2. You can also get a free upgrade to Git Kraken pro as a student if you go[here](https://education.github.com/pack?utm_source=github+gitkraken). This willlet you work with private as  well as public repos using Git Kraken.
+  3. After you have installed GitKraken follow the instructions [here](https://support.gitkraken.com/integrations/github/) to link to your GitHub account. **Note:** you can stop at the 'Oauth step' but make sure you do the **Generate SSH** step.
 
 <a name="repo"></a>
 #### 3. Clone the course materials repo to your computer
-- Before you clone I recommend you start by creating a directory for this class where you will keep all of your repos. **NOTE:** It is best to create this directory as a local directory on your computer don't put it on OneDrive if you are using that.
+- Before you clone I recommend you start by creating a directory for this class where you will keep all of your repos. **NOTE:** It is best to create this directory as a local directory on your computer don't put it on OneDrive if you are using that.  I recommend you name this directory `HAS_Tools`
 - *GitKraken Approach*
   - In *GitKraken* got to `File/Clone Repo`
   - Use the `Browse` button to navigate to the directory you created for the class that you want your repo cloned to.
-  - To get the `URL` open a web browser and go to the [GitHub organization](https://github.com/HAS-Tools-Fall2021) for this course, click on the `Course-Materials21 Repo` and click on the green `code` button make sure `ssh` is underlined as the method to be used.
+  - To get the `URL` open a web browser and go to the [GitHub organization](https://github.com/HAS-Tools-Fall2021) for this course, click on the `Course-Materials21 Repo` and click on the green `code` button **make sure `ssh` is underlined** as the method to be used. 
   - When you do this you should see a url for the repo with a clipboard symbol next to it. Click on the clipboard to copy the URL.
   - Paste this into the `URL` field in *GitKraken*
 
